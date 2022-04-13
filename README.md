@@ -12,7 +12,7 @@ Using the FastF1 API, this analysis can be re-created.<br>
 
 This notebook compares the corner behaviour of Hamilton and Verstappen during the 2021 British GP Qualifying.<br>
 
-This can however be modified to any drivers and any sessions.<br> 
+This can however be modified to any drivers and also any sessions.<br> 
 
 
 ## Inspiration from Amazon Insights
